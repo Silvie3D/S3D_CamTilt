@@ -32,4 +32,4 @@ Fixed minor bugs.
 Visit our GitHub repository for a complete list of release notes.
 
 License:
-S3D ResoSwap is licensed under the MIT License.
+S3D_CamTilt is licensed under the MIT License.
