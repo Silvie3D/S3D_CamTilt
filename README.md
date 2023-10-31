@@ -5,13 +5,13 @@ Version:
 1.2.1
 
 Overview:
-S3D ResoSwap is a Blender addon that simplifies the process of swapping X and Y render resolutions and setting portrait or landscape orientations. It helps Blender users to easily switch between different render aspect ratios and resolutions.
+S3D_CamTilt is a Blender addon that simplifies the process of swapping X and Y render resolutions and setting portrait or landscape orientations. It helps Blender users to easily switch between different render aspect ratios and resolutions.
 
 Installation:
 1. Download the latest version of the addon from GitHub, Gumroad or Blendermarket for FREE!
 2. In Blender, navigate to Edit > Preferences > Add-ons.
 3. Click the "Install" button and select the downloaded ZIP file.
-4. Enable the addon by checking the box next to "S3D ResoSwap" in the Add-ons tab.
+4. Enable the addon by checking the box next to "S3D_CamTilt-main.zip" in the Add-ons tab.
 
 Usage:
 Open Blender and go to the "Output Properties" panel.
