@@ -1,6 +1,6 @@
 bl_info = {
     "name": "S3D_CamTilt",
-    "blender": (3, 60, 0),
+    "blender": (3, 6, 0),
     "author": "Silvie3D",
     "version": (1, 2, 1),
     "location": "Output Properties > Format > Orientation",
