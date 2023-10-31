@@ -19,7 +19,7 @@ Find the "Orientation" section, which contains the "Swap Resolution" button.
 Click the "Swap Resolution" button to switch between X and Y resolutions.
 If X and Y resolutions are different, "Portrait" and "Landscape" buttons will appear, allowing you to set the aspect ratio accordingly.
 Compatibility:
-S3D ResoSwap is compatible with Blender versions 2.80 and later.
+S3D_CamTilt is compatible with Blender versions 2.80 and later.
 
 Support:
 For support or questions, contact us at rabahahmed95@gmail.com
