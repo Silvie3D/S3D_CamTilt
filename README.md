@@ -22,7 +22,7 @@ Compatibility:
 S3D_CamTilt is compatible with Blender versions 2.80 and later.
 
 Support:
-For support or questions, contact us at rabahahmed95@gmail.com
+For support or questions, contact me at rabahahmed95@gmail.com
 
 Release Notes:
 Version 1.2.1 (March 2023):
